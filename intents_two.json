@@ -1,0 +1,117 @@
+{
+    "intents":[
+        {
+            "tag": "other",
+            "patterns":["Hi",
+                "Hey",
+                "Hello",
+                "Glad to see you",
+                "Bye",
+                "See you later",
+                "Have a nice day",
+                "Goodbye",
+                "See ya!","Thanks",
+                "Thank you",
+                "Thanks a lot!",
+                "Sorry, can't understand you",
+                "Please give me more info",
+                "Not sure I understand","Is my appointment fixed?",
+                "Do I have an appointment today?",
+                "How are you?",
+                "Hi how are you?",
+                "Hello how are you?",
+                "Hola how are you?",
+                "How are you doing?",
+                "Hope you are doing well?",
+                "Hello hope you are doing well?",
+                "What is your name?",
+                "What could I call you?",
+                "What can I call you?",
+                "What do your friends call you?",
+                "Who are you?",
+                "Tell me your name?"
+
+                
+            ],
+            "responses":[
+                "Hey!",
+                "Hello, thanks for using",
+                "Hi!",
+                "Hello.",
+                "See you later, thanks for using",
+                "Waiting for your next visiting",
+                "Bye!Come back as soon is posible.",
+                "Here to help ,)",
+                "My pleasure",
+                "Not a big deal :)",
+                "Great! Hi <HUMAN>! How can I help?",
+                "Good! Hi <HUMAN>, how can I help you?",
+                "Cool! Hello <HUMAN>, what can I do for you?",
+                "OK! Hola <HUMAN>, how can I help you?",
+                "OK! hi <HUMAN>, what can I do for you?",
+                "Hello, I am great, how are you?",
+                "Hello, how are you? I am great thanks!" ,
+                "Hello, I am good thank you, how are you? ",
+                "Hi, I am great, how are you? ",
+                "Hi, how are you? I am great thanks! ",
+                "Hi, I am good thank you, how are you?",
+                "Hi, good thank you, how are you? ",
+                "You can call me MoodBot",
+                "You may call me MoodBot",
+                "Call me Mood"
+            ]
+        },
+        {
+            "tag":"weather",
+            "patterns":["Can you tell me weather?",
+            "It is raining now?",
+            "Should i get a jacket with me?",
+                "How should i dress today?",
+                "How is the weather today?",
+                "What is the weather like today?",
+                "What was the weather like on your vacation last week?",
+                "What will the weather be like yesterday?",
+                "How has the weather been in your country recently?",
+                "Will it rain today?",
+                "Is it cold outside?",
+                "Did it snow earlier?",
+                "Was there a storm this morning?",
+                "Is it going to rain later?",
+                "Is it going to be humid today?",
+                "There might be a blizzard today.",
+                "A blizzard is coming.",
+                "The weather is cool."
+
+            ],
+            "responses":[
+                "At moment weather looks like this",
+                "Here is the weather for you",
+                "Weather for you",
+                "Weather in your location"
+            ]
+        },
+        {
+           "tag": "food",
+           "patterns":[
+            "Food was more a distraction than a desire.",
+            "He offered to buy the food if I cooked the next week, I agreed.",
+            "I think in the future, food will be free.",
+            "I have eaten food pretty much my whole life.",
+            "The pub smelled of stale beer",
+            "Where can I buy some beer?",
+            "I'm going for a beer with Karl tonight.",
+            "In law, beer is classified as a food product.",
+            "Let's have a beer or something."
+
+
+
+           ],
+           "responses":[
+               "This local is for you!:",
+               "Your perfect location is: ",
+               "Try this: "
+               ]
+
+        }
+   ]
+}

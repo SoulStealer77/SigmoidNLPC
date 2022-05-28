@@ -1,0 +1,33 @@
+{
+    "intents":[
+        {
+            "tag": "Positive",
+            "patterns":[
+
+                
+            ],
+            "responses":[
+                
+            ]
+        },
+        {
+            "tag":"Neutral",
+            "patterns":[
+
+            ],
+            "responses":[
+                
+            ]
+        },
+        {
+           "tag": "Negative",
+           "patterns":[
+            
+           ],
+           "responses":[
+               
+               ]
+
+        }
+   ]
+}
